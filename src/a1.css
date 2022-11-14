@@ -1,0 +1,32 @@
+h2 {
+  color: rgb(193, 193, 243);
+}
+
+.demo {
+  background-color: rgb(53, 49, 49);
+  margin-top: 30px;
+  margin-left: 70px;
+  margin-right: 770px;
+  margin-bottom: 60px;
+  border-radius: 10px;
+}
+.home {
+  margin-top: 220px;
+  background-color: rgb(53, 49, 49);
+  margin-left: 1250px;
+  border-radius: 10px;
+}
+.demo2 {
+  background-color: rgb(68, 66, 66);
+  border-radius: 10px;
+}
+
+button {
+  margin-left: 500px;
+  background-color: black;
+  color: rgb(207, 248, 235);
+  font-size: large;
+  padding: 15px 30px;
+  border-color: aquamarine;
+  border-radius: 5px;
+}
